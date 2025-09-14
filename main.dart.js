@@ -71776,7 +71776,7 @@ aw(){this.aN()
 this.ny()},
 P(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=this,a2=null,a3=4283385573,a4=A.bT(a6,a2,t.w).w.a.a,a5=A.aI(4294178815)
 if(a4>=1300)s=a4*0.25
-else s=a4>=800?a4*0.1:a4*0.05
+else s=a4>=800?a4*0.03:a4*0.02
 r=a4>=800
 q=r?30:20
 r=r?30:10
